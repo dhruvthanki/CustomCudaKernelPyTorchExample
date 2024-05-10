@@ -1,0 +1,7 @@
+build/lib.linux-x86_64-cpython-311/cuda_add.cpython-311-x86_64-linux-gnu.so
+build/temp.linux-x86_64-cpython-311/add_kernel.o
+cuda_add.egg-info/dependency_links.txt
+cuda_add.egg-info/PKG-INFO
+cuda_add.egg-info/SOURCES.txt
+cuda_add.egg-info/top_level.txt
+dist/cuda_add-0.0.0-py3.11-linux-x86_64.egg
